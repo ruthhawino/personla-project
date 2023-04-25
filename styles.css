@@ -1,0 +1,172 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:green;
+    text-decoration: solid;
+    font-size: larger;
+    padding: 4%;
+
+}
+
+.body{
+    background-color:black;
+}
+.navbar.a{
+    text-decoration: solid;
+    color: white;
+}
+
+#icon{
+    text-decoration: none;
+    color: red;
+    padding: 5%;
+    width: 5%;
+    height: 4%;
+}
+.button1{
+    padding: 4%;
+    background-color:red;
+    text-decoration: none;
+    color: white;
+}
+#introduction{
+    display: flex;
+    padding: 3%;
+    justify-content: space-between;
+    background-image:url(/images/Screenshot\ from\ 2023-04-25\ 21-07-02.png);
+    background-repeat: no-repeat;
+    margin-top:1%;
+    background-size: cover;
+    padding: 18%;
+    
+
+}
+
+.b3{
+    position: relative;
+    bottom: -50%;
+    margin-top: 5%;
+    padding:3%;
+    background-color:green;
+    text-decoration: solid;
+    color: white;
+    border-radius:5%;
+
+}
+.about{
+    display: flex;
+    gap: 3%;
+}
+
+.image2{
+    width: 90%;
+    height: 100%;
+}
+.l1{
+    border: solid;
+    color: brown;
+    text-align: center;
+
+}
+.bb{
+    text-align: center;
+    color:green;
+}
+.speech1{
+    text-decoration: solid;
+    color:white;
+    font-size: larger;
+    gap: 3%;
+    background-color: green;
+
+
+}
+.bb1{
+
+    text-align: center;
+    color:green;
+
+}
+.bb2{
+    text-align: center;
+    color:green;
+
+}
+.services{
+    display: block;
+    margin-top: 3%;
+    background-color: orange;
+    
+}
+.main1{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.main2{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.b1{
+    padding:4%;
+    background-color: green;
+    text-decoration: solid;
+    color: white;
+    border-radius:5%;
+}
+
+
+.image3{
+    width: 90%;
+    height: 60%;
+}
+
+
+
+.pp2{
+    width: 80%;
+    height: 40%;
+    margin-left: 3%;
+    
+}
+.image4{
+    width: 90%;
+    height: 60%;
+}
+.image5{
+    width: 90%;
+    height: 60%;
+}
+.image6{
+    width: 90%;
+    height: 60%;
+}
+.image7{
+    width: 90%;
+    height: 60%;
+}
+.image8{
+    width: 90%;
+    height: 60%;
+}
+.image9{
+    width: 90%;
+    height: 60%;
+}
+.image10{
+    width: 90%;
+    height: 60%;
+}
+.image11{
+    width: 90%;
+    height: 60%;
+}
+
+.Events{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+    background-color: orange;
+}
+
