@@ -11,10 +11,20 @@
 .body{
     background-color:white;
 }
-.navbar.a{
-    text-decoration: solid;
+.navbar {
+    background-color: green;
+  }
+  
+  .navbar a {
     color: white;
-}
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .navbar a:hover {
+    background-color: white;
+    color: rgb(44, 6, 105);
+  }
 
 #icon{
     text-decoration: none;
@@ -38,6 +48,8 @@
     margin-top:1%;
     background-size: cover;
     padding: 18%;
+    position: relative;
+    top: -10vh;
     
 
 }
